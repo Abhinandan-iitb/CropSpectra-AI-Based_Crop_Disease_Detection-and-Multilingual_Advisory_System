@@ -1,0 +1,1 @@
+# CropSpectra-AI-Based_Crop_Disease_Detection-and-Multilingual_Advisory_System
